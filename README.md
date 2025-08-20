@@ -7,12 +7,17 @@
   <p align="center">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Developer&value=95" width="400">
   </p>
-  
-  .status {
-    position: "Poland 🇵🇱";
-    current: "Building the future";
-    mood: "Caffeinated ☕";
-  }
+</div>
+
+```css
+.status {
+  position: "Poland 🇵🇱";
+  current: "Building the future";
+  mood: "Caffeinated ☕";
+}
+```
+
+<div align="center">
   
   ![](https://komarev.com/ghpvc/?username=legolasek&color=15d8fe&style=flat-square&label=PROFILE+STALKERS)
   
@@ -22,21 +27,25 @@
 
 <!-- Interactive Terminal -->
 <div align="center">
-  <img src="https://github.com/legolasek/legolasek/assets/legolasek/terminal.gif" width="600">
-  > psteczka.current_status()
-  => "Writing code that doesn't need comments"
-  
-  > psteczka.skills.list()
-  => ["Everything", "...but especially:", "C/C++", "Python", "JS/TS", "And 42 others"]
-  
-  > psteczka.contact()
-  => pawell.chodup@gmail.com
+
+```bash
+> psteczka.current_status()
+=> "Writing code that doesn't need comments"
+
+> psteczka.skills.list()
+=> ["Everything", "...but especially:", "C/C++", "Python", "JS/TS", "And 42 others"]
+
+> psteczka.contact()
+=> pawell.chodup@gmail.com
+```
+
 </div>
 
 ---
 
 ### `<Tech Stack>`
 
+```mermaid
 graph LR
     A[PSteczka] --> B[Languages]
     A --> C[Frameworks]
@@ -56,6 +65,7 @@ graph LR
     style B fill:#1a1a1a
     style C fill:#1a1a1a
     style D fill:#1a1a1a
+```
 
 ---
 
@@ -80,23 +90,20 @@ graph LR
       </td>
     </tr>
   </table>
-  
-  <!-- Compact Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=legolasek&theme=transparent&text_color=15d8fe&title_color=15d8fe&hide_border=true&bg_color=0d1117&layout=compact" width="50%">
 </div>
 
 ---
 
 ### `<Latest Activity>`
 
-<!-- START:github-activity -->
+```typescript
 const recentActivity = {
   "⚡": "Pushed 3 commits to legolasek/awesome-project",
   "🎯": "Opened PR #42 in some-org/some-repo",
   "✨": "Created new repository legolasek/secret-project",
   "🔥": "Started 10 discussions"
 };
-<!-- END:github-activity -->
+```
 
 ---
 
