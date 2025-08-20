@@ -1,5 +1,3 @@
-Masz rację, żyję w przeszłości! 😅 Oto PRAWDZIWIE nowoczesny README na 2025:
-
 <!-- Minimalist Header with Neon Accent -->
 <div align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=15d8fe" width="100">
