@@ -1,138 +1,156 @@
-<!-- Minimalist Header with Neon Accent -->
-<div align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=15d8fe" width="100">
-  
-  # PSteczka
-  
-  <p align="center">
-    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Developer&value=95" width="400">
-  </p>
-</div>
+![PSteczka](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-```css
-.status {
-  position: "Poland 🇵🇱";
-  current: "Building the future";
-  mood: "Caffeinated ☕";
-}
-```
+<h1 align="center">
+  Hi there! I'm PSteczka 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=legolasek&color=15d8fe&style=flat-square&label=PROFILE+STALKERS)
+  ![GitHub Followers](https://img.shields.io/github/followers/legolasek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+  ![Profile Views](https://komarev.com/ghpvc/?username=legolasek&style=for-the-badge&color=0891b2)
   
 </div>
 
+<h3 align="center">🚀 Full-Stack Developer & Creative Designer 🎨</h3>
+
+<p align="center">
+  <em>Transforming ideas into awesome digital experiences</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌍 Based in **Poland**
+- ✉️ Reach me at [pawell.chodup@gmail.com](mailto:pawell.chodup@gmail.com)
+- 🔭 Currently working on **innovative web solutions**
+- 🌱 Learning **new technologies every day**
+- ⚡ Fun fact: **I love combining code with creativity**
+
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Programming Languages</b></summary>
 <br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" title="C"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" title="C++"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/>
+</p>
+</details>
 
-<!-- Interactive Terminal -->
-<div align="center">
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/>
+</p>
+</details>
 
-```bash
-> psteczka.current_status()
-=> "Writing code that doesn't need comments"
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" title="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" title="Laravel"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+</details>
 
-> psteczka.skills.list()
-=> ["Everything", "...but especially:", "C/C++", "Python", "JS/TS", "And 42 others"]
-
-> psteczka.contact()
-=> pawell.chodup@gmail.com
-```
-
-</div>
-
----
-
-### `<Tech Stack>`
-
-```mermaid
-graph LR
-    A[PSteczka] --> B[Languages]
-    A --> C[Frameworks]
-    A --> D[Tools]
-    
-    B --> B1[C/C++/C#]
-    B --> B2[Python/Java]
-    B --> B3[JS/PHP]
-    
-    C --> C1[Node/Laravel]
-    C --> C2[Flutter]
-    
-    D --> D1[Docker]
-    D --> D2[AI Tools]
-    
-    style A fill:#15d8fe
-    style B fill:#1a1a1a
-    style C fill:#1a1a1a
-    style D fill:#1a1a1a
-```
-
----
-
-### `<GitHub Matrix>`
-
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/legolasek?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=34&theme=native&dark=true" width="100%">
-</div>
+<details open>
+<summary><b>Tools & Technologies</b></summary>
+<br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" alt="Blender" title="Blender"/>
+</p>
+</details>
 
 ---
 
-### `<Real-Time Stats>`
+### 🌐 Connect with Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=legolasek&show_icons=true&theme=transparent&text_color=15d8fe&icon_color=15d8fe&title_color=15d8fe&hide_border=true&bg_color=0d1117&rank_icon=github" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=legolasek&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=15d8fe&ring=15d8fe&fire=15d8fe&currStreakNum=15d8fe&currStreakLabel=15d8fe&sideLabels=15d8fe" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### `<Latest Activity>`
-
-```typescript
-const recentActivity = {
-  "⚡": "Pushed 3 commits to legolasek/awesome-project",
-  "🎯": "Opened PR #42 in some-org/some-repo",
-  "✨": "Created new repository legolasek/secret-project",
-  "🔥": "Started 10 discussions"
-};
-```
-
----
-
-### `<Connect>`
-
-<div align="center">
-  
-  [![](https://img.shields.io/badge/-%40legolasek-0d1117?style=for-the-badge&logo=github&logoColor=15d8fe)](https://github.com/legolasek)
-  [![](https://img.shields.io/badge/-psteczka-0d1117?style=for-the-badge&logo=discord&logoColor=15d8fe)](https://discord.com/users/psteczka)
-  [![](https://img.shields.io/badge/-%40psteczka-0d1117?style=for-the-badge&logo=youtube&logoColor=15d8fe)](https://youtube.com/@psteczka)
-  
-</div>
-
----
-
-### `<Support>`
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/psteczka">
-    <img src="https://readme-components.vercel.app/api?component=buymeacoffee&username=psteczka&design=2" width="200">
+<p align="center">
+  <a href="https://www.github.com/legolasek" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://discord.com/users/psteczka" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@psteczka" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legolasek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legolasek&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=legolasek&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=legolasek&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+  
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+---
+
+### ☕ Support My Work
+
+<div align="center">
+  
+  <a href="https://www.buymeacoffee.com/psteczka">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+  
+  <p>
+    <em>If you like my work, consider buying me a coffee! ☕</em>
+  </p>
+  
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with 💙 and probably too much ☕ in 2025</sub>
   
-  <br>
+  **Thanks for visiting my profile!** 😊
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:15d8fe,100:0d1117&height=1" width="100%">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+  
 </div>
